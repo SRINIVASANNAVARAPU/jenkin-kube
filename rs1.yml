@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
       - name: mywebrc-con1
-        image: httpd 
+        image: vimal13/apache-webserver-php
