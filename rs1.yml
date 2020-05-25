@@ -3,7 +3,7 @@ kind: ReplicaSet
 metadata:
   name: myweb-rs
 spec:
-  replicas: 7
+  replicas: 3
   selector:
     matchLabels:
       env: production
